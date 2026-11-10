@@ -139,7 +139,6 @@ ol {
   color: rgb(255 255 255 / 0.7);
 }
 
-/* Чекбоксы */
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
